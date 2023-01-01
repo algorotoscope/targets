@@ -1,2 +1,2 @@
-# targets
-This is an API for managing targets.
+# Links
+These are the links that matter right now.
